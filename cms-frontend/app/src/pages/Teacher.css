@@ -1,0 +1,29 @@
+.OpenComp {
+   font-size: 30px;
+}
+
+.ClosedComp {
+   font-size: 30px;
+}
+
+.OpenAndClose {
+   display: flex;
+   flex-direction: column;
+   row-gap: 40px;
+   padding: 50px;
+
+}
+
+
+
+.Lists {
+   padding: 10px;
+
+}
+
+.wrapper-btn {
+   justify-content: flex-end !important;
+   padding-top: 20px;
+   padding-right: 20px;
+
+}

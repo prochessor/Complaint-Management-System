@@ -1,0 +1,17 @@
+id: 1
+username: Hamad
+email: l215176@teacher.com
+password: jinga1289
+role: Teacher
+
+id: 2
+username: Zaki
+email: l215290@teacher.com
+password: sheeda1289
+role: Teacher
+
+id: 3
+username: Ali
+email: l217646@teacher.com
+password: magicalbndr
+role: Teacher

@@ -1,0 +1,56 @@
+.Whole {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+    gap: 30px;
+    padding: 10px 20px;
+    color: #eee;
+}
+
+.Welcome {
+    font-size: 40px;
+}
+
+.detail-text {
+    margin-bottom: 50px;
+}
+
+.milofight {
+    height: 100px;
+    width: 100px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 30px;
+    padding: 0px 280px;
+}
+
+form>button {
+    border-radius: 100px;
+    border-color: black;
+    background-color: #cf0b41;
+
+}
+
+form>input {
+    color: black;
+
+}
+
+form>* {
+    width: 100%;
+}
+
+.login-btn {
+    padding: 10px 0px
+}

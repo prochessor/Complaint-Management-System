@@ -1,0 +1,13 @@
+id: 1
+username: Ahsan
+email: l213333@director.com
+password: ahsan1289
+role: Director
+
+id: 2
+username: Sami
+email: l214444@director.com
+password: sami1289
+role: Director
+
+

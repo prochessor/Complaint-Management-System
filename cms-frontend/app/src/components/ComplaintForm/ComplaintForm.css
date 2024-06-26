@@ -1,0 +1,26 @@
+.Billo_bgga {
+  align-items: start !important;
+}
+
+.Toggle {
+  padding-top: 40px;
+}
+
+.DandT {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.form-container {
+  padding: 20px 100px;
+}
+
+.form {
+  background-color: lightblue;
+  padding: 100px;
+}
+
+.TypeOfComplaint {
+  padding-top: 30px;
+}

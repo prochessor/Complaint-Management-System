@@ -1,0 +1,13 @@
+.WELCOME {
+  font-size: 30px;
+  width: fit-content;
+}
+
+.Wel {
+  display: flex !important;
+  background-color: #222;
+  color: #eee;
+  justify-content: space-between;
+  width: 100%;
+  padding: 20px;
+}

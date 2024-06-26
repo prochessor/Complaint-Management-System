@@ -1,0 +1,18 @@
+id: 1
+username: Moiz
+email: l211761@administrator.com
+password: billa123
+role: Admin
+
+id: 2
+username: Zikriya
+email: l211111@administrator.com
+password: zik123
+role: Admin
+
+id: 3
+username: Bilal
+email: l212222@administrator.com
+password: bilal123
+role: Admin
+
